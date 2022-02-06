@@ -6,11 +6,9 @@
 ###  ★ 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 <br> </br>
           ⠀⠀⠀
          🧠  ReactJS.
-         🐱‍👤  React Testing Library.
-         🐱‍🐉  object oriented
+         🐱‍🐉  JS object oriented
          🍨  Context API & React Hooks. 
-          ⠀⠀⠀
-           ⠀⠀⠀
+          ⠀⠀⠀          ⠀⠀⠀
 <br> </br>
 <h1></h1> 
 <div>
