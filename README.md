@@ -15,7 +15,7 @@
 
           🖤 Age: 22y.
           💻 Technologies I use: HTML, CSS, JavaScript.
-          🎮 Hobbies: Gaming and watch animes.
+          🎮 Hobbies: Games & animes.
 <h1></h1> 
 <br></br>
 
