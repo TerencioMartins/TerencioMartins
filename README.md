@@ -22,7 +22,7 @@
 <h3 align="center">  • ＣＯＮＴＡＣＴ ＭＥ • </h1> <br>
 
 <p align="center">
-  <a href="https://www.instagram.com/terencio.martins//?hl=pt-br" alt="Instagram" target=_blank>
+  <a href="https://www.instagram.com/terencio.martins/?hl=pt-br" alt="Instagram" target=_blank>
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=e9e9e9&link=https://www.instagram.com/terencio.martins/"/>
   </a>
   
