@@ -3,7 +3,7 @@
 <br> </br>
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
   
-###  • ＣＵＲＲＥＮＴＬＹ ＬＥＡＲＮＩＮＧ • <br> </br>
+### • ＣＵＲＲＥＮＴＬＹ ＬＥＡＲＮＩＮＧ • <br> </br>
           ⠀⠀⠀
          🧠  ReactJS.
          🎓  JS object oriented
@@ -13,9 +13,9 @@
 
 ### • ＩＮＦＯ • <br> 
 
-          🖤 Age: 22y.
-          💻 Technologies I use: HTML, CSS, JavaScript.
-          🎮 Hobbies: Games & animes.
+         🖤 Age: 22y.
+         💻 Technologies I use: HTML, CSS, JavaScript.
+         🎮 Hobbies: Games & animes.
 <h1></h1> 
 <br></br>
 
