@@ -1,4 +1,4 @@
-  <h1 align="center"> 𝙃𝙞, 𝙞𝙢 @𝙏𝙚𝙧𝙚𝙣𝙘𝙞𝙤𝙈𝙖𝙧𝙩𝙞𝙣𝙨 </h1>
+  <h1 align="center"> 𝙃𝙞, 𝙞𝙢 𝙏𝙚𝙧𝙚𝙣𝙘𝙞𝙤 𝙈𝙖𝙧𝙩𝙞𝙣𝙨 </h1>
   <p  align="center">𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘯𝘥 𝘐𝘛 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘢𝘵 𝘜𝘕𝘐𝘕𝘛𝘌𝘙 </p>    
 <br> </br>
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
