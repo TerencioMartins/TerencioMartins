@@ -18,8 +18,6 @@
          🎮 Hobbies: Games & animes.
          
 <h1></h1> 
-<br></br>
-
 <h3 align="center">  • ＣＯＮＴＡＣＴ ＭＥ • </h1> <br>
 
 <p align="center">
