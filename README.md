@@ -15,7 +15,7 @@
 ### •ＩＮＦＯ• <br> 
 
          🖤 Age: 22y.
-         💻 Technologies I use: HTML, CSS, JavaScript.
+         💻 Technologies I use: React, JavaScript, CSS.
          🎮 Hobbies: Games & animes.
          
 <h1></h1> 
