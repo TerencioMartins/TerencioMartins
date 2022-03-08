@@ -6,8 +6,7 @@
 
 ### •ＣＵＲＲＥＮＴＬＹ ＬＥＡＲＮＩＮＧ• <br> </br>
           ⠀⠀⠀
-         🧠  ReactJS.
-         🎓  JS object oriented.
+         🎓  ReactJS.
          ⚫  Context API & React Hooks. 
           ⠀⠀⠀          ⠀⠀⠀
 <br> </br>
