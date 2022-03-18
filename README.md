@@ -8,6 +8,7 @@
           ⠀⠀⠀
          🎓  ReactJS.
          ⚫  Redux & Redux W/ Hooks.
+         ⚫  TypeScript
           ⠀⠀⠀          ⠀⠀⠀
 <br> </br>
 
