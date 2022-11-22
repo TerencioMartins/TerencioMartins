@@ -2,23 +2,6 @@
   <p  align="center">𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳</p>    
 <br> </br>
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
-  
-
-### •ＣＵＲＲＥＮＴＬＹ ＬＥＡＲＮＩＮＧ• <br> </br>
-          ⠀⠀⠀
-         🎓  ReactJS.
-         ⚫  Redux & Redux W/ Hooks.
-         ⚫  TypeScript
-          ⠀⠀⠀          ⠀⠀⠀
-<br> </br>
-
-### •ＩＮＦＯ• <br> 
-
-         🖤 Age: 22y.
-         💻 Technologies I use: React, JavaScript, CSS.
-         🎮 Hobbies: Games & animes.
-         
-<h1></h1> 
 <h3 align="center">  • ＣＯＮＴＡＣＴ ＭＥ • </h1> <br>
 
 <p align="center">
