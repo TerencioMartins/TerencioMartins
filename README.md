@@ -1,5 +1,5 @@
   <h1 align="center"> 𝙃𝙞, 𝙞𝙢 𝙏𝙚𝙧𝙚𝙣𝙘𝙞𝙤 𝙈𝙖𝙧𝙩𝙞𝙣𝙨 </h1>
-  <p  align="center">𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳</p>    
+  <p  align="center">Front-end Developer at 3CPlus</p>    
 <br> </br>
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
 <h3 align="center">  • ＣＯＮＴＡＣＴ ＭＥ • </h1> <br>
