@@ -1,6 +1,39 @@
   <h1 align="center"> 𝙃𝙞, 𝙞𝙢 𝙏𝙚𝙧𝙚𝙣𝙘𝙞𝙤 𝙈𝙖𝙧𝙩𝙞𝙣𝙨 </h1>
   <p  align="center">Front-end Developer at 3CPlus</p>    
 <br> </br>
+📱 Desenvolvedor Front-end | Vue.js e Typescript | Especialista em performance
+<br>
+Olá! Sou um entusiasta do desenvolvimento web, apaixonado por criar interfaces dinâmicas e eficientes que impulsionam experiências de usuário excepcionais.
+
+O que eu Ofereço:
+
+🛠️ Experiência em Vue.js e Javascript: Domino tecnologias essenciais para desenvolvimento web moderno, garantindo aplicações robustas e altamente interativas.
+
+🌐 Proficiência em Vuex/Pinia e Websocket: Capacidade comprovada de gerenciar o estado da aplicação de forma eficiente e de habilitar comunicação em tempo real para uma experiência imersiva do usuário.
+
+🎨 Habilidade em Sass: Especialista em estilização avançada, assegurando uma apresentação visualmente atraente e organizada das interfaces.
+
+🛠️ Defensor das Melhores Práticas: Dedicado ao padrão Component-Based e às metodologias Ágeis para produzir código limpo e de fácil manutenção.
+
+💻 Agilidade Técnica: Fluente em Javascript e Typescript, posso desenvolver aplicações complexas com soluções inteligentes e sustentáveis.
+
+Objetivos de Carreira:
+
+🎯 Assumir a liderança de uma equipe de desenvolvimento.
+
+Impacto Profissional:
+
+📈 Entreguei implementação de soluções eficientes, escaláveis e performáticas que otimizam o desempenho e a usabilidade dos aplicativos.
+
+🌟 Focado em aprimorar meu trabalho com tecnologias Front-end e entregar um produto com cada vez mais exelência.
+
+🤝 Colaborei proativamente com equipes multifuncionais para identificar e resolver desafios técnicos, promovendo uma cultura de inovação e excelência técnica.
+
+🌱 Auxiliei colégas de trabalho em suas jornadas agindo como um líder de maneira proativa e cooperativa.
+
+Vamos Fazer Conexões:
+
+🤝 Estou ansioso para contribuir com a minha experiência técnica em um ambiente que prioriza o progresso e a criatividade. Se você está em busca de um profissional de desenvolvimento, estou aberto para uma conversa!
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
 <h3 align="center">  • ＣＯＮＴＡＣＴ ＭＥ • </h1> <br>
 
@@ -17,10 +50,7 @@
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=e9e9e9&link=mailto:zerofirty0@gmail.com"/>
   </a>
          
-    
- <a href="https://twitter.com/Therencin" alt="Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=e9e9e9&link=https://twitter.com/Therencin"/>
- </a>
+
 <div>
   
  
