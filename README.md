@@ -34,26 +34,44 @@ Impacto Profissional:
 
 ⚒️ Expertise em Tecnologias Como:
 •Vue
+<br>
  •Composition API
+ <br>
  •Options API
+ <br>
 •Javascript
+<br>
 •Typescript
+<br>
 •Vuex
+<br>
 •Git
+<br>
 •Amplitude
+<br>
 •Jest
+<br>
 •Pinia
+<br>
 •Bootstrap
+<br>
 •Rest API
+<br>
 
 🧠 E Conhecimento em Tecnologias como:
 
 •React
+<br>
 •Redux
+<br>
 •PhP
+<br>
 •Laravel
+<br>
 •MongoDB
+<br>
 •PostgreSQL
+
 
 Vamos Fazer Conexões:
 
