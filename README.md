@@ -3,6 +3,8 @@
 <br> </br>
 📱 Desenvolvedor Front-end | Vue.js e Typescript | Especialista em performance
 <br>
+📱 Desenvolvedor Front-end | Vue.js, React e Typescript | Especialista em performance
+
 Olá! Sou um entusiasta do desenvolvimento web, apaixonado por criar interfaces dinâmicas e eficientes que impulsionam experiências de usuário excepcionais.
 
 O que eu Ofereço:
@@ -15,11 +17,11 @@ O que eu Ofereço:
 
 🛠️ Defensor das Melhores Práticas: Dedicado ao padrão Component-Based e às metodologias Ágeis para produzir código limpo e de fácil manutenção.
 
-💻 Agilidade Técnica: Fluente em Javascript e Typescript, posso desenvolver aplicações complexas com soluções inteligentes e sustentáveis.
+💻 Agilidade Técnica: Fluente em Javascript, Typescript em especial Vue.js, posso desenvolver aplicações complexas com soluções inteligentes e sustentáveis.
 
 Objetivos de Carreira:
 
-🎯 Assumir a liderança de uma equipe de desenvolvimento.
+🎯 Atuar no exterior assumindo a liderança de uma equipe de desenvolvimento.
 
 Impacto Profissional:
 
@@ -30,6 +32,29 @@ Impacto Profissional:
 🤝 Colaborei proativamente com equipes multifuncionais para identificar e resolver desafios técnicos, promovendo uma cultura de inovação e excelência técnica.
 
 🌱 Auxiliei colégas de trabalho em suas jornadas agindo como um líder de maneira proativa e cooperativa.
+
+⚒️ Expertise em Tecnologias Como:
+•Vue
+ •Composition API
+ •Options API
+•Javascript
+•Typescript
+•Vuex
+•Git
+•Amplitude
+•Jest
+•Pinia
+•Bootstrap
+•Rest API
+
+🧠 E Conhecimento em Tecnologias como:
+
+•React
+•Redux
+•PhP
+•Laravel
+•MongoDB
+•PostgreSQL
 
 Vamos Fazer Conexões:
 
