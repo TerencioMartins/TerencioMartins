@@ -3,7 +3,7 @@
 <br> </br>
 <br>
 📱 Desenvolvedor Front-end | Vue.js, React e Typescript | Especialista em performance
-
+<br>
 Olá! Sou um entusiasta do desenvolvimento web, apaixonado por criar interfaces dinâmicas e eficientes que impulsionam experiências de usuário excepcionais.
 
 O que eu Ofereço:
