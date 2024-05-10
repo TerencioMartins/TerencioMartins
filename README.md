@@ -1,7 +1,6 @@
   <h1 align="center"> 𝙃𝙞, 𝙞𝙢 𝙏𝙚𝙧𝙚𝙣𝙘𝙞𝙤 𝙈𝙖𝙧𝙩𝙞𝙣𝙨 </h1>
   <p  align="center">Front-end Developer at 3CPlus</p>    
 <br> </br>
-📱 Desenvolvedor Front-end | Vue.js e Typescript | Especialista em performance
 <br>
 📱 Desenvolvedor Front-end | Vue.js, React e Typescript | Especialista em performance
 
