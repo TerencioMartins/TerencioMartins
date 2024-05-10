@@ -3,36 +3,37 @@
 <br> </br>
 <br>
 📱 Desenvolvedor Front-end | Vue.js, React e Typescript | Especialista em performance
-<br>
+
 Olá! Sou um entusiasta do desenvolvimento web, apaixonado por criar interfaces dinâmicas e eficientes que impulsionam experiências de usuário excepcionais.
-<br>
+
 O que eu Ofereço:
-<br>
+
 🛠️ Experiência em Vue.js e Javascript: Domino tecnologias essenciais para desenvolvimento web moderno, garantindo aplicações robustas e altamente interativas.
-<br>
+
 🌐 Proficiência em Vuex/Pinia e Websocket: Capacidade comprovada de gerenciar o estado da aplicação de forma eficiente e de habilitar comunicação em tempo real para uma experiência imersiva do usuário.
-<br>
+
 🎨 Habilidade em Sass: Especialista em estilização avançada, assegurando uma apresentação visualmente atraente e organizada das interfaces.
-<br>
+
 🛠️ Defensor das Melhores Práticas: Dedicado ao padrão Component-Based e às metodologias Ágeis para produzir código limpo e de fácil manutenção.
-<br>
+
 💻 Agilidade Técnica: Fluente em Javascript, Typescript em especial Vue.js, posso desenvolver aplicações complexas com soluções inteligentes e sustentáveis.
-<br>
+
 Objetivos de Carreira:
-<br>
+
 🎯 Atuar no exterior assumindo a liderança de uma equipe de desenvolvimento.
-<br>
+
 Impacto Profissional:
-<br>
+
 📈 Entreguei implementação de soluções eficientes, escaláveis e performáticas que otimizam o desempenho e a usabilidade dos aplicativos.
-<br>
+
 🌟 Focado em aprimorar meu trabalho com tecnologias Front-end e entregar um produto com cada vez mais exelência.
-<br>
+
 🤝 Colaborei proativamente com equipes multifuncionais para identificar e resolver desafios técnicos, promovendo uma cultura de inovação e excelência técnica.
-<br>
+
 🌱 Auxiliei colégas de trabalho em suas jornadas agindo como um líder de maneira proativa e cooperativa.
-<br>
+
 ⚒️ Expertise em Tecnologias Como:
+
 •Vue
 <br>
  •Composition API
