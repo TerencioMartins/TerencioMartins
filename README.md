@@ -2,80 +2,26 @@
   <p  align="center">Front-end Developer</p>    
 <br> </br>
 <br>
-<p align="center"> 📱 Desenvolvedor Front-end | Vue.js, React e Typescript | Especialista em performance </p>
+<p align="center"> 📱 Desenvolvedor Front-end | Vue.js, React, Javascript e Typescript | Especialista em otimização de performance </p>
 
+Desenvolvedor Front-end com mais de 3 anos de experiência em Javascript, TypeScript, Vue e React. Especializado em otimização de performance em diversos produtos, alcançando mais de 77% de melhoria e aprimorando significativamente a experiência e satisfação do usuário. Proficiente em gerenciamento de estado com Vuex, Pinia e Redux, e experiente em comunicação em tempo real com WebSockets. Habilidade comprovada em estilização avançada com CSS, SCSS, SASS, Styled Components, Bootstrap e MUI. Expertise em controle de versão, testes e CI/CD usando Git, GitHub Actions, GitLab CI, Jest e Cypress. Adepto e perito com microsserviços e metodologias ágeis como Scrum, Kanban e SAFe, garantindo um gerenciamento de projetos eficiente e colaborativo. Experiência na aplicação dos princípios SOLID, Design Patterns e Programação Orientada a Objetos (OOP), proporcionando arquitetura de código reutilizável e escalável, resultando em soluções de software de alta qualidade. Focado em uma abordagem ágil e estratégica, orientada pelo usuário, no desenvolvimento de aplicações escaláveis e complexas com código limpo e de fácil manutenção, alcançando objetivos de negócio e entregando resultados mensuráveis. Apaixonado por utilizar ideias e técnicas inovadoras para impulsionar o sucesso e crescimento da marca.a
+<br/>
 
-Olá! Sou um entusiasta do desenvolvimento web, apaixonado por criar interfaces dinâmicas e eficientes que impulsionam experiências de usuário excepcionais.
+🛠️ Habilidades & Expertise:
+• Avançado: Javascript, Typescript, Vue.js, React, AWS, Vuex, Pinia, Redux, Express, WebSockets, REST API, CSS, SCSS, SASS, Styled Components, Bootstrap, MUI, Git, Jest, Cypress, Jira, Scrum, Kanban, SAFe, Microsserviços, Figma, Sentry, Liderança, Comunicação, Trabalho em equipe, Proatividade, Multitarefas, Resiliência, Colaboração.
+• Intermediário: Next.js, Nuxt.js, GitHub Actions, GitLab CI, PostgreSQL, Amplitude, New Relic.
+• Iniciante: PhP, Laravel, Quasar Framework.
+<br/>
 
-O que eu Ofereço:
+Interessado em colaborar em ambientes que priorizam o progresso e a criatividade. Sempre aberto a oportunidades que desafiem e promovam crescimento. Pronto para liderar e inovar.
+<br/>
 
-🛠️ Experiência em Vue.js e Javascript: Domino tecnologias essenciais para desenvolvimento web moderno, garantindo aplicações robustas e altamente interativas.
-
-🌐 Proficiência em Vuex/Pinia e Websocket: Capacidade comprovada de gerenciar o estado da aplicação de forma eficiente e de habilitar comunicação em tempo real para uma experiência imersiva do usuário.
-
-🎨 Habilidade em Sass: Especialista em estilização avançada, assegurando uma apresentação visualmente atraente e organizada das interfaces.
-
-🛠️ Defensor das Melhores Práticas: Dedicado ao padrão Component-Based e às metodologias Ágeis para produzir código limpo e de fácil manutenção.
-
-💻 Agilidade Técnica: Fluente em Javascript, Typescript em especial Vue.js, posso desenvolver aplicações complexas com soluções inteligentes e sustentáveis.
-
-Objetivos de Carreira:
-
-🎯 Atuar no exterior assumindo a liderança de uma equipe de desenvolvimento.
-
-Impacto Profissional:
-
-📈 Entreguei implementação de soluções eficientes, escaláveis e performáticas que otimizam o desempenho e a usabilidade dos aplicativos.
-
-🌟 Focado em aprimorar meu trabalho com tecnologias Front-end e entregar um produto com cada vez mais exelência.
-
-🤝 Colaborei proativamente com equipes multifuncionais para identificar e resolver desafios técnicos, promovendo uma cultura de inovação e excelência técnica.
-
-🌱 Auxiliei colégas de trabalho em suas jornadas agindo como um líder de maneira proativa e cooperativa.
-
-⚒️ Expertise em Tecnologias Como:
-
-•Vue
-<br>
- •Composition API
- <br>
- •Options API
- <br>
-•Javascript
-<br>
-•Typescript
-<br>
-•Vuex
-<br>
-•Git
-<br>
-•Amplitude
-<br>
-•Jest
-<br>
-•Pinia
-<br>
-•Bootstrap
-<br>
-•Rest API
-<br>
-
-🧠 E Conhecimento em Tecnologias como:
-
-•React
-<br>
-•Redux
-<br>
-•PhP
-<br>
-•Laravel
-<br>
-•MongoDB
-<br>
-•PostgreSQL
-
-
-Vamos Fazer Conexões:
+🤝 Vamos Conectar:
+<br/>
+📧 Email: terencio_antonio@hotmail.com
+<br/>
+📱 Telefone: (34) 99140-4422
+<br/>
 
 🤝 Estou ansioso para contribuir com a minha experiência técnica em um ambiente que prioriza o progresso e a criatividade. Se você está em busca de um profissional de desenvolvimento, estou aberto para uma conversa!
 <img align="right" height="300" width="500" src="https://data.whicdn.com/images/271624292/original.gif">
